@@ -6,39 +6,43 @@
     "about": "About"
   },
   "footer": {
-    "copy": "© 2026 Harmiana",
-    "contact": "support@harmiana.com"
+    "copy": "\u00a9 2026 Harmiana",
+    "contact": "support@harmiana.com",
+    "tagline": "Crafting games worth your time."
   },
   "home": {
-    "tagline": "Playful worlds",
-    "title": "Harmiana builds tactile, joyful puzzle games.",
-    "subtitle": "We focus on satisfying feel, crystal-clear feedback, and craftsmanship that respects player time.",
-    "card1": {
-      "title": "Purposeful Design",
-      "body": "Bold visuals and clean systems that are easy to learn and hard to master."
+    "tagline": "Independent Game Studio",
+    "title": "Games that feel as good as they look.",
+    "subtitle": "We build tactile puzzle experiences with bold color, satisfying feedback, and deep respect for your time.",
+    "badge": "Coming Soon",
+    "game": {
+      "name": "Crystal Grid",
+      "description": "A vibrant block puzzle where color, strategy, and satisfying chain reactions collide. Clear the grid, chase combos, and lose track of time."
     },
-    "card2": {
-      "title": "Feel-First Play",
-      "body": "Haptics, audio, and animations tuned to make every move satisfying."
-    },
-    "card3": {
-      "title": "Global Mindset",
-      "body": "Built with multilingual support and thoughtful accessibility from day one."
-    }
+    "values": [
+      "Every interaction should feel intentional and rewarding.",
+      "Simple rules create the deepest mastery.",
+      "Your time is valuable \u2014 we never waste it."
+    ]
   },
   "privacy": {
     "title": "Privacy Policy",
-    "body1": "Harmiana does not collect, store, or share personal data.",
-    "body2": "Game data such as best score and settings are stored locally on your device only."
+    "body1": "Harmiana does not collect, store, or share personal data. We have no accounts, no tracking, and no analytics that identify you.",
+    "body2": "Game data such as your best score and settings are stored locally on your device only. Nothing leaves your phone."
   },
   "terms": {
     "title": "Terms of Service",
-    "body1": "Harmiana is provided \"as is\" without warranties of any kind.",
-    "body2": "By using the app you agree that use is at your own risk."
+    "body1": "Harmiana games are provided \"as is\" without warranties of any kind, express or implied.",
+    "body2": "By using the app you agree that use is at your own risk. We reserve the right to update these terms as our games evolve."
   },
   "about": {
-    "title": "About Harmiana",
-    "body1": "Harmiana is an independent game studio focused on elegant, satisfying puzzle experiences.",
-    "body2": "We believe in simple rules, deep mastery, and delightful feedback."
+    "title": "The Studio",
+    "story": "Harmiana is an independent studio built on one conviction: puzzle games deserve the same craft and polish as any other genre. We obsess over the details \u2014 the weight of a block snapping into place, the rhythm of a chain reaction, the clarity of a well-designed grid. Every decision serves the player experience.",
+    "beliefsTitle": "What We Believe",
+    "beliefs": [
+      "Feel over flash. A game should be satisfying before it\u2019s pretty.",
+      "Depth from simplicity. The best mechanics are learned in seconds and mastered over months.",
+      "Respect the player. No dark patterns, no attention traps, no filler."
+    ]
   }
 }

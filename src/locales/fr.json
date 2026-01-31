@@ -1,44 +1,48 @@
 {
   "nav": {
     "home": "Accueil",
-    "privacy": "Confidentialité",
+    "privacy": "Confidentialit\u00e9",
     "terms": "Conditions",
-    "about": "À propos"
+    "about": "\u00c0 propos"
   },
   "footer": {
-    "copy": "© 2026 Harmiana",
-    "contact": "support@harmiana.com"
+    "copy": "\u00a9 2026 Harmiana",
+    "contact": "support@harmiana.com",
+    "tagline": "Des jeux qui m\u00e9ritent votre temps."
   },
   "home": {
-    "tagline": "Mondes ludiques",
-    "title": "Harmiana crée des jeux de puzzle tactiles et joyeux.",
-    "subtitle": "Nous privilégions la sensation, des retours clairs et un savoir-faire qui respecte le temps des joueurs.",
-    "card1": {
-      "title": "Design maîtrisé",
-      "body": "Des visuels audacieux et des systèmes simples à apprendre, difficiles à maîtriser."
+    "tagline": "Studio de Jeux Ind\u00e9pendant",
+    "title": "Des jeux aussi agr\u00e9ables \u00e0 jouer qu\u2019\u00e0 regarder.",
+    "subtitle": "Nous cr\u00e9ons des puzzles tactiles aux couleurs vives, au feedback satisfaisant, et dans le plus grand respect de votre temps.",
+    "badge": "Bient\u00f4t Disponible",
+    "game": {
+      "name": "Crystal Grid",
+      "description": "Un puzzle de blocs vibrant o\u00f9 couleur, strat\u00e9gie et r\u00e9actions en cha\u00eene se rencontrent. Videz la grille, enchainez les combos et perdez la notion du temps."
     },
-    "card2": {
-      "title": "Sensation d'abord",
-      "body": "Haptique, audio et animations réglés pour rendre chaque action satisfaisante."
-    },
-    "card3": {
-      "title": "Vision globale",
-      "body": "Conçu avec le multilingue et l'accessibilité dès le départ."
-    }
+    "values": [
+      "Chaque interaction doit \u00eatre intentionnelle et gratifiante.",
+      "Des r\u00e8gles simples cr\u00e9ent la ma\u00eetrise la plus profonde.",
+      "Votre temps est pr\u00e9cieux \u2014 nous ne le gaspillons jamais."
+    ]
   },
   "privacy": {
-    "title": "Politique de confidentialité",
-    "body1": "Harmiana ne collecte, ne stocke et ne partage aucune donnée personnelle.",
-    "body2": "Les données de jeu telles que le meilleur score et les réglages sont conservées uniquement sur votre appareil."
+    "title": "Politique de Confidentialit\u00e9",
+    "body1": "Harmiana ne collecte, ne stocke et ne partage aucune donn\u00e9e personnelle. Pas de comptes, pas de suivi, pas d\u2019analyses qui vous identifient.",
+    "body2": "Les donn\u00e9es de jeu telles que votre meilleur score et vos r\u00e9glages sont conserv\u00e9es uniquement sur votre appareil. Rien ne quitte votre t\u00e9l\u00e9phone."
   },
   "terms": {
-    "title": "Conditions d'utilisation",
-    "body1": "Harmiana est fourni \"tel quel\" sans aucune garantie.",
-    "body2": "En utilisant l'application, vous acceptez que l'usage se fait à vos propres risques."
+    "title": "Conditions d\u2019Utilisation",
+    "body1": "Les jeux Harmiana sont fournis \u00ab tels quels \u00bb sans aucune garantie, expresse ou implicite.",
+    "body2": "En utilisant l\u2019application, vous acceptez que l\u2019usage se fait \u00e0 vos propres risques. Nous nous r\u00e9servons le droit de mettre \u00e0 jour ces conditions au fil de l\u2019\u00e9volution de nos jeux."
   },
   "about": {
-    "title": "À propos de Harmiana",
-    "body1": "Harmiana est un studio indépendant spécialisé dans les puzzles élégants et satisfaisants.",
-    "body2": "Nous croyons en des règles simples, une maîtrise profonde et un retour ludique plaisant."
+    "title": "Le Studio",
+    "story": "Harmiana est un studio ind\u00e9pendant fond\u00e9 sur une conviction\u00a0: les jeux de puzzle m\u00e9ritent le m\u00eame soin et la m\u00eame finition que n\u2019importe quel autre genre. Nous soignons chaque d\u00e9tail \u2014 le poids d\u2019un bloc qui s\u2019embo\u00eete, le rythme d\u2019une r\u00e9action en cha\u00eene, la clart\u00e9 d\u2019une grille bien con\u00e7ue. Chaque d\u00e9cision sert l\u2019exp\u00e9rience du joueur.",
+    "beliefsTitle": "Ce En Quoi Nous Croyons",
+    "beliefs": [
+      "La sensation avant l\u2019apparence. Un jeu doit \u00eatre satisfaisant avant d\u2019\u00eatre beau.",
+      "La profondeur na\u00eet de la simplicit\u00e9. Les meilleures m\u00e9caniques s\u2019apprennent en quelques secondes et se ma\u00eetrisent sur des mois.",
+      "Respecter le joueur. Pas de dark patterns, pas de pi\u00e8ges \u00e0 attention, pas de remplissage."
+    ]
   }
 }
