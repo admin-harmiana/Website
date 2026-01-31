@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { Link, Navigate, Outlet, Route, Routes, useLocation, useParams } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import logo from './assets/Harmiana_logo.png';
 
 const SUPPORTED = ['en', 'fr'] as const;
 
@@ -31,7 +32,10 @@ function LangLayout() {
     <div className="min-h-screen">
       <header className="px-6 py-6 border-b border-slate-800">
         <div className="max-w-5xl mx-auto flex flex-wrap items-center gap-4 justify-between">
-          <Link to={`/${lang}`} className="text-xl font-bold tracking-tight">Harmiana</Link>
+          <Link to={`/${lang}`} className="flex items-center gap-3 text-xl font-bold tracking-tight">
+            <img src={logo} alt="Harmiana logo" className="h-10 w-10 rounded-full border border-slate-800" />
+            <span>Harmiana</span>
+          </Link>
           <nav className="flex items-center gap-4 text-sm text-slate-300">
             <Link to={`/${lang}`} className="hover:text-white">{t('nav.home')}</Link>
             <Link to={`/${lang}/privacy`} className="hover:text-white">{t('nav.privacy')}</Link>
