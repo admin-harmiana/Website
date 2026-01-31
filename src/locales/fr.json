@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "about": "À propos"
+  },
+  "footer": {
+    "copy": "© 2026 Harmiana",
+    "contact": "support@harmiana.com"
+  },
+  "home": {
+    "tagline": "Mondes ludiques",
+    "title": "Harmiana crée des jeux de puzzle tactiles et joyeux.",
+    "subtitle": "Nous privilégions la sensation, des retours clairs et un savoir-faire qui respecte le temps des joueurs.",
+    "card1": {
+      "title": "Design maîtrisé",
+      "body": "Des visuels audacieux et des systèmes simples à apprendre, difficiles à maîtriser."
+    },
+    "card2": {
+      "title": "Sensation d'abord",
+      "body": "Haptique, audio et animations réglés pour rendre chaque action satisfaisante."
+    },
+    "card3": {
+      "title": "Vision globale",
+      "body": "Conçu avec le multilingue et l'accessibilité dès le départ."
+    }
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "body1": "Harmiana ne collecte, ne stocke et ne partage aucune donnée personnelle.",
+    "body2": "Les données de jeu telles que le meilleur score et les réglages sont conservées uniquement sur votre appareil."
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "body1": "Harmiana est fourni \"tel quel\" sans aucune garantie.",
+    "body2": "En utilisant l'application, vous acceptez que l'usage se fait à vos propres risques."
+  },
+  "about": {
+    "title": "À propos de Harmiana",
+    "body1": "Harmiana est un studio indépendant spécialisé dans les puzzles élégants et satisfaisants.",
+    "body2": "Nous croyons en des règles simples, une maîtrise profonde et un retour ludique plaisant."
+  }
+}
